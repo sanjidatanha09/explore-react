@@ -15,12 +15,12 @@ console.log(greetign);
 - B: `ReferenceError: greetign is not defined`
 - C: `undefined`
 
-<details><summary><b>Adkakodkkad</b></summary>
+<details><summary><b>Answer</b></summary>
 <p>
 
 #### Answer: A: `{}`
 
-<i>Write your explanation here</i>
+<i>meral nakldlde</i>
 
 </p>
 </details>

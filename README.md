@@ -20,7 +20,7 @@ console.log(greetign);
 
 #### Answer: A: `{}`
 
-<i>meral nakldlde</i>
+<i>meraldddd nakldlde</i>
 
 </p>
 </details>
